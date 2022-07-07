@@ -1,0 +1,8 @@
+name: RandomTP
+author: AsiziX
+main: fr.asizix.rwtptest.main
+version: 1.0
+
+commands:
+  rtp:
+    aliases: randomtp
